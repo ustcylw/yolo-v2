@@ -1,0 +1,60 @@
+
+## ================================================================================================================
+resnet:
+https://www.cnblogs.com/jiyou/p/11272650.html
+
+pytorch笔记：04)resnet网络&解决输入图像大小问题
+https://blog.csdn.net/jiangpeng59/article/details/79609392
+
+
+mobilenet：
+https://www.jianshu.com/p/2607ca493fbb
+内容下边参考文献包含冻结不分层，进行训练
+https://blog.csdn.net/Action_now_zj/article/details/109706635
+https://cloud.tencent.com/developer/article/1459539?from=article.detail.1441350
+https://cloud.tencent.com/developer/article/1459538?from=article.detail.1441350
+
+
+Pytorch里面多任务Loss是加起来还是分别backward？
+https://www.zhihu.com/question/414980879
+
+
+yolo
+https://www.zybuluo.com/rianusr/note/1417734#12-%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84-%E7%AB%AF%E5%AF%B9%E7%AB%AF%E5%B0%86obj-detection%E9%97%AE%E9%A2%98%E8%BD%AC%E5%8C%96%E4%B8%BAregression%E9%97%AE%E9%A2%98
+https://www.cnblogs.com/pprp/p/10124591.html
+https://alex007.blog.csdn.net/article/details/108692230
+https://zhuanlan.zhihu.com/p/162043754
+https://www.pianshen.com/article/7293987192/
+https://blog.csdn.net/wfei101/article/details/79398563?utm_term=yolov2%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-79398563&spm=3001.4430
+https://www.jianshu.com/p/da569d729ac8?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+https://zhuanlan.zhihu.com/p/89794762
+https://blog.csdn.net/zhw864680355/article/details/103119156?utm_term=yolov2%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E5%9B%BE&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-1-103119156&spm=3001.4430
+https://frank909.blog.csdn.net/article/details/108270711
+https://blog.csdn.net/litt1e/article/details/88907542
+https://www.jianshu.com/p/d13ae1055302
+
+yolo-git
+https://github.com/uvipen/Yolo-v2-pytorch
+https://github.com/ruiminshen/yolo2-pytorch
+
+
+pytorch 多gpus
+https://zhuanlan.zhihu.com/p/145427849
+https://zhuanlan.zhihu.com/p/86441879
+
+
+shuffle:
+https://cloud.tencent.com/developer/article/1483771?from=article.detail.1441350
+
+
+# *****************************************************************************************************************
+目标检测一卷到底之后，终于有人为它挖了个新坑｜CVPR 2021 Oral
+https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247518555&idx=2&sn=115a59924a9d714a40735614631c4e21&chksm=f9a1fbd4ced672c233fb551d2746f2695474b753158e60b72d54d2ae05ca14d16ea55c660821&mpshare=1&scene=1&srcid=0426XMNsMmJBS0RJ1xSdzEo1&sharer_sharetime=1619420599798&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c#rd
+LSNet: Anchor-free新玩法，只用一个head统一目标检测，实例分割，姿态估计三种任务
+https://zhuanlan.zhihu.com/p/366651996
+# *****************************************************************************************************************
+
+
+## ================================================================================================================
+
+
